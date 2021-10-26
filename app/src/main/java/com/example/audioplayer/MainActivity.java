@@ -2,18 +2,11 @@ package com.example.audioplayer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.os.Bundle;
-import android.view.View;
-import android.widget.Button;
 import android.widget.ImageView;
-import android.widget.MediaController;
 import android.widget.SeekBar;
 
-import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Queue;
 import java.util.Timer;
 import java.util.TimerTask;
 
